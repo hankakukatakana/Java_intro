@@ -12,7 +12,6 @@ class say{
         System.out.println(DTime);
         System.out.println(LTime);
 
-
         System.out.println("Good morning");
         System.out.println("Good afternoon");
         System.out.println("Good evening");
